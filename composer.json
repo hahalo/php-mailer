@@ -14,12 +14,12 @@
     },
   	"autoload": {
 	  "psr-4": {
-		"Ouranoshong\\Mailer\\": "src"
+		"Hahalo\\Mailer\\": "src"
 	  }
 	},
   "autoload-dev": {
     "psr-4": {
-      "Ouranoshong\\Tests\\Mailer\\": "tests"
+      "Hahalo\\Tests\\Mailer\\": "tests"
     }
   },
   "require-dev": {
