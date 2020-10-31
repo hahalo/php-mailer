@@ -1,7 +1,7 @@
 {
-  "name": "php-mailer",
+  "name": "php-mailer-proxy",
   "version": "0.0.1",
-  "description": "just for test",
+  "description": "proxy for php-mailer",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -14,6 +14,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Hahalo@outlook.com",
+  "author": "a1039565@gmail.com",
   "license": "MIT"
 }
